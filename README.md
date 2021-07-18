@@ -5,7 +5,7 @@ This is a simple react-redux add for demo.
  - Used APIs from https://swapi.dev
 
 # Live
- - Project is live on : https://confident-aryabhata-af808d.netlify.app/login
+ - Project is live on : https://confident-aryabhata-af808d.netlify.app/
  
 ## Run Application
 You can download this repo or clone using below command. (folder-name will be project folder in which you want to start your project).
